@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body {
+  background-color: #f4fbff;
+}
+
+main {
+  background-color: #f4fbff;
+  padding-bottom: 1px;
+}
+
+#register {
+  font-family: "Montserrat";
+  background-image: url("header-bg.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 1440px 350px;
+}
+
+main h1 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  width: max-content;
+  font-size: 48px;
+  line-height: 20px;
+  color: white;
+  padding: 180px 60px 0 60px;
+  margin: auto;
+}
+
+.register-form {
+  margin-top: 40px;
+  margin-bottom: 80px;
+  height: 889px;
+  max-width: 640px;
+  padding: 30px;
+  border-radius: 16px;
+  gap: 20px;
+  background-color: #fff;
+}
+
+main .form-control {
+  background-color: #f8f8f8;
+}
+
+.form-control::-webkit-input-placeholder {
+  font-size: 12px;
+}
+
+main .upload-file {
+  background-color: #f8f8f8;
+  height: 200px;
+  width: 200px;
+  margin-top: 30px;
+}
+
+main ol {
+  font-weight: 400;
+  font-size: 12px;
+  margin-top: 90px;
+  margin-left: -90px;
+  max-width: 290px;
+}
+
+#register .up-files p {
+  padding-top: 15px;
+  font-size: 12px;
+}
