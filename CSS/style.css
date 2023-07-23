@@ -162,7 +162,6 @@ article {
 
 article h1 {
   color: #007cbd;
-  padding: 15px 0px;
   font-weight: 700;
   font-size: 20px;
   line-height: 24.38px;
@@ -173,8 +172,13 @@ article p {
   font-size: 14px;
   line-height: 19px;
 }
-
+/* 
 .about-img img {
+  margin: 0 35px;
+  height: 200px;
+} */
+
+.about-video iframe {
   margin: 0 35px;
   height: 200px;
 }
